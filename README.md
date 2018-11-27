@@ -15,3 +15,16 @@ The commit history of this repository reflects what a student might do as she wo
   * The interface between RStudio and `make`
   * How to use `make` from the shell
   * How Git facilitates the process of building a pipeline
+  
+ # STAT547_hw09
+ ## Zachary Sherker
+
+This is a repository for Zachary Sherker's STAT547 hw 9.
+
+## In this assignment, I will:
+
+Add one R. script and one .Rmd script to Jenny Bryan's Makefile activity (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/Makefile). My additions to Jenny's Makefile create an analysis of the frequency of letters used in the word.txt file (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/word_histogram/words.txt) and outputs a histogram (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/word_histogram/letters_freq.png) and a table summarizing this data for each letter (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/word_histogram/letters_freq.tsv) using the following R script (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/word_histogram/letter_frequency.R) and Rmd. file (found here: https://github.com/STAT545-UBC-students/hw09-xcct2012/blob/master/word_histogram/letters_freq.Rmd).
+
+All files can be found in the following word_histogram folder:
+
+https://github.com/STAT545-UBC-students/hw09-xcct2012/tree/master/word_histogram
