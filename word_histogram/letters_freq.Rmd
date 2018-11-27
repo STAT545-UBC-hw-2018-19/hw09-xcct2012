@@ -1,0 +1,16 @@
+---
+title: "letters_freq"
+output: html_document
+---
+
+```{r load-data}
+data <- read.delim("letters_freq.tsv")
+data
+```
+
+```{r analyze-data}
+most.common.letter <- data$letter[which.max(data$frequency)]
+most.common.letter
+```
+
+The most common English word length is `e`.
